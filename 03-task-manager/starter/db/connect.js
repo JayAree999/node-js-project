@@ -1,4 +1,3 @@
-const connect =""
 
 const mongoose = require("mongoose")
 
